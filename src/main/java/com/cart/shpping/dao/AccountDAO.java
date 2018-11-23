@@ -1,5 +1,4 @@
-package com.cart.shpping.dao;
- 
+package com.cart.shpping.dao; 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import com.cart.shpping.entity.Account;
