@@ -1,6 +1,5 @@
 package com.cart.shpping.model;
 import com.cart.shpping.form.CustomerForm;
- 
 public class CustomerInfo {
  
     private String name;
